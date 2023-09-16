@@ -1,0 +1,2 @@
+detoxify
+altair==4.1.0
